@@ -46,8 +46,8 @@ interests:
   - l'adn et tout
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD
+    institution: Colmar
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
