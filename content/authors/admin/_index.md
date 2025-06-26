@@ -1,17 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Maxime Verdier
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Maxime
+last_name: Verdier
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,6 +43,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - l'adn et tout
 
 education:
   - area: PhD Artificial Intelligence
